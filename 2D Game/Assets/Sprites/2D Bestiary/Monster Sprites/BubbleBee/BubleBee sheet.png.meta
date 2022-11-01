@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 4ab42f2e0934a3c4591b0d1a5ab526d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BubleBee sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 880
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c860c827bd8cb54bb90d0298a50eb43
+      internalID: 1004824581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2088
+        width: 880
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f52071e0f2ae1c4a86b127691c60292
+      internalID: 86669441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2088
+        width: 880
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe00fb1c941734e969c018bfea1e30
+      internalID: 251969332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2088
+        width: 880
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff784df0455474791a060edc7586d9
+      internalID: -570664375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2088
+        width: 880
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb3fee25a95e14a98862dfbe0814c1
+      internalID: -1803350868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 880
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c1320930405841b9f2818f9068f22
+      internalID: -678405531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1238
+        width: 880
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb4c760fc128714fa11208a98322e7c
+      internalID: 1521342209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1238
+        width: 880
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ed8c91a76c2d4aa62da5121b1d147
+      internalID: -1701518684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1238
+        width: 880
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b36180652cce648a3329ce24cdb5d0
+      internalID: -1434239208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1238
+        width: 880
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea989509b481c794d84b20702d1666c2
+      internalID: 1449514678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 880
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a1b4326d925334e8e4f112c040ae80
+      internalID: -464336202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 438
+        width: 880
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605aaf207fc669e4fa9c482a80f0e9a1
+      internalID: 2124602570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 438
+        width: 880
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906305b73bc76214ab9c41e97f56f48e
+      internalID: -416263341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 438
+        width: 880
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6122e31d0ca18f44baedc4ebdbab5ef
+      internalID: 1537095342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 438
+        width: 880
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e8af99109f63b47a4da007437362ad
+      internalID: 1283164598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 236
+        width: 332
+        height: 79
+      alignment: 9
+      pivot: {x: 0.93799, y: 0.17663999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa57ed5cfd2704487fc34124cd3dbb
+      internalID: 945875658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 226
+        width: 333
+        height: 98
+      alignment: 9
+      pivot: {x: 0.060206436, y: 0.23933208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286f931c503b1024a9556d7d62770800
+      internalID: 182331347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 100
+        width: 79
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7238654, y: 0.8247308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a683bc4b78154795cee77c4c243e7
+      internalID: 199395697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 70
+        width: 73
+        height: 123
+      alignment: 9
+      pivot: {x: 0.7288058, y: 0.87543446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3904f76e40ddf6645bf439ed1a0098dc
+      internalID: -1832651685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 85
+        width: 71
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3339414, y: 0.7638249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb56cff68d17724fb55f825f00f1d79
+      internalID: 103766422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_20
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 233
+        width: 335
+        height: 86
+      alignment: 9
+      pivot: {x: 0.9189493, y: 0.24676655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7e47668ba8e21408ba56c26295aaec
+      internalID: -703195884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 217
+        width: 348
+        height: 105
+      alignment: 9
+      pivot: {x: 0.08627109, y: 0.37325004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7875035b3cd5cb74b84561369da21b21
+      internalID: 167395790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 118
+        width: 57
+        height: 93
+      alignment: 9
+      pivot: {x: 0.7910799, y: 0.8973569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d9a8bd8c3c174f911b5dd3be027df
+      internalID: -498457655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 84
+        width: 61
+        height: 108
+      alignment: 9
+      pivot: {x: 0.75962955, y: 0.90850747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc182f477b2d24b9b79f07288ebc5e
+      internalID: -1211601546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 93
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.28128907, y: 0.8570256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0513ac84e63e7694caf1c81dd5f2e3f6
+      internalID: 314643487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 223
+        width: 341
+        height: 100
+      alignment: 9
+      pivot: {x: 0.88535917, y: 0.3250357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b472df166c2b24aa9b73fa94eb718a
+      internalID: -893663873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 224
+        width: 355
+        height: 98
+      alignment: 9
+      pivot: {x: 0.1382503, y: 0.3069922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b199110de5ed843930ec5a9dc29eae
+      internalID: 498193836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 118
+        width: 51
+        height: 91
+      alignment: 9
+      pivot: {x: 0.82992256, y: 0.91189593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd63a62bcf4aed41b909b5df2d108bd
+      internalID: -893830859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 84
+        width: 55
+        height: 110
+      alignment: 9
+      pivot: {x: 0.8135609, y: 0.8827333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4b7751d308e6b4397c248d03334347
+      internalID: 1497746446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleBee sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 97
+        width: 45
+        height: 86
+      alignment: 9
+      pivot: {x: 0.1956543, y: 0.8863258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f09a9821694948ba13d2923507e8d
+      internalID: 479185358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BubleBee sheet_2: 251969332
+      BubleBee sheet_27: -893830859
+      BubleBee sheet_3: -570664375
+      BubleBee sheet_5: -678405531
+      BubleBee sheet_21: 167395790
+      BubleBee sheet_10: -464336202
+      BubleBee sheet_24: 314643487
+      BubleBee sheet_12: -416263341
+      BubleBee sheet_1: 86669441
+      BubleBee sheet_22: -498457655
+      BubleBee sheet_4: -1803350868
+      BubleBee sheet_9: 1449514678
+      BubleBee sheet_14: 1283164598
+      BubleBee sheet_16: 182331347
+      BubleBee sheet_17: 199395697
+      BubleBee sheet_8: -1434239208
+      BubleBee sheet_15: 945875658
+      BubleBee sheet_26: 498193836
+      BubleBee sheet_28: 1497746446
+      BubleBee sheet_25: -893663873
+      BubleBee sheet_29: 479185358
+      BubleBee sheet_18: -1832651685
+      BubleBee sheet_13: 1537095342
+      BubleBee sheet_19: 103766422
+      BubleBee sheet_0: 1004824581
+      BubleBee sheet_7: -1701518684
+      BubleBee sheet_11: 2124602570
+      BubleBee sheet_23: -1211601546
+      BubleBee sheet_20: -703195884
+      BubleBee sheet_6: 1521342209
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
